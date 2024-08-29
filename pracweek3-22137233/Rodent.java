@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Rodent {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		         Scanner scanner = new Scanner(System.in);
 		         System.out.print("Enter initial population of Rodents of Unusual Size: ");
 		         int numberPeople = scanner.nextInt();
